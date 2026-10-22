@@ -44,7 +44,7 @@ font-family: "Comic Neue", cursive;
 #black_box{
   background-color: black;
   border-radius: 25%;
-  width:180px;
+  width:150px;
   height:50px;
 }
 
@@ -65,7 +65,7 @@ font-family: "Comic Neue", cursive;
 
 }
 nav{ position:flex;
- margin-left: 70vw;
+ margin-left: 60vw;
  width: 66vw;}
 
  #cargo{
@@ -200,7 +200,7 @@ text-align:center;
 nav{
   display: flex;
   justify-content: center; /* Centraliza os itens na horizontal */
-  gap: 20px;               /* Dá um espaçamento bacana entre os links */
+  gap: 10px;               /* Dá um espaçamento bacana entre os links */
   background-color: white;
   padding: 15px;
   margin-left:17vw;
